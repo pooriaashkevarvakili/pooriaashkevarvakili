@@ -19,8 +19,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 
  <img src="https://img.icons8.com/cotton/2x/shopping-bag--v5.png" width="30" height="30"/> Experience
  
-- surthland (http://surthland-resume.surge.sh/) 1 month
-- freelancer (https://tehrantc.com/) 1.5 month
+- surthland (http://surthland-resume.surge.sh/) Part-time
 - avajang   (https://www.avajang.com/) 7 month
 - hakupian  (https://hacoupian.net/) 1 year 2 month
 - freelancer 2 year 7 month
@@ -46,7 +45,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 
 - 👯 Know about my website resume experiences [resume-persian] (http://resumepersian.surge.sh/)
 - 👯 Know about website resume my experiences [resume-english] (https://resumeenglish.surge.sh/#/)
-- 👯 Know about my  resume experiences        [resume-persian]        (https://s24.picofile.com/d/8455776076/b658f643-a000-4d90-bbc6-459750603e64/MyResume_80_www_cvbuilder_me_733.pdf)
+- 👯 Know about my  resume experiences        [resume-persian]        (https://s24.picofile.com/d/8456110450/b1942ceb-f00c-4ce8-a349-3d218b19639d/resume_frontend.pdf)
 
 - 👯 Know about my  resume experiences        [resume-english]        (https://s25.picofile.com/d/8454763684/6db1d7bc-425a-4b34-9b42-cffce976d6c0/MyResume_318_www_cvbuilder_me_26.pdf)
 
