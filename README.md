@@ -60,6 +60,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
   <img src="https://freeiconshop.com/wp-content/uploads/edd/phone-flat-128x128.png" alt="phone" width="40" height="40"/> Connect with me
 <p align="left">
 <a href="https://twitter.com/pooriavakili09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pooriavakili09" height="30" width="40" /></a>
+ <a href="https://www.aparat.com/learnqt" target="blank"><img align="center" src="https://img.icons8.com/color/2x/aparat.png" alt="pooriavakili09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//pooria-ashkevar-vakili-6457a917a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/pooria-ashkevar-vakili-6457a917a" height="30" width="40" /></a>
 <a href="https://instagram.com/pooriaashkevarvakili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooriaashkevarvakili" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pooriaashkevarvakili8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pooriaashkevarvakili" height="30" width="40" /></a>
