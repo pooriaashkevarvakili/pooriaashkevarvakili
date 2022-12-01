@@ -26,8 +26,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 
  <img src="https://img.icons8.com/ultraviolet/2x/user.png" width="30" height="30"/> Portfolio
  
-
-- portfolio-ecommerce        (https://public-iota-wheat.vercel.app/)
+ 
 - narmesh-ecommerce          (http://narmeshecommerce.surge.sh/)
 - shopping-ecommerce-sport   (https://shopping-ecommerce-sport.vercel.app/)
 - shopping-cart-car          (https://shopping-cart-car.surge.sh/) 
