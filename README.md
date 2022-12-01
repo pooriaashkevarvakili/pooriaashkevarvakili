@@ -28,7 +28,6 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
  
  
 - narmesh-ecommerce          (http://narmeshecommerce.surge.sh/)
-- shopping-ecommerce-sport   (https://shopping-ecommerce-sport.vercel.app/)
 - shopping-cart-car          (https://shopping-cart-car.surge.sh/) 
 - panel-admin                (https://spa-6eq8433jg-pooriavakili.vercel.app/#/)
 - shopping-cart              (https://portfolio-shopping-cart.surge.sh/)
