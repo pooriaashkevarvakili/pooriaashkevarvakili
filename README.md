@@ -35,6 +35,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 - todo-app                   (http://todoappp-vuex.surge.sh/)
 - surthland-jobs             (http://surthland-resume.surge.sh/)
 - resume-persian            (http://resumepersian.surge.sh/#/)
+- ecommerce-nuxt             (http://ecommercenuxt.surge.sh/)
 
 <img src="https://img.icons8.com/fluency/2x/address-book-2.png" width="30" height="30"/> Learn
 
