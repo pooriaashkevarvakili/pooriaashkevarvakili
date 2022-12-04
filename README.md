@@ -37,6 +37,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 - resume-persian            (http://resumepersian.surge.sh/#/)
 - ecommerce-nuxt             (http://ecommercenuxt.surge.sh/)
 - shopping-cart-mobile-pinia  (https://shopping-cart-mobile.surge.sh/)
+- shopping-cart-watch-nuxt    (http://watch-shopping-cart.surge.sh/)
 
 <img src="https://img.icons8.com/fluency/2x/address-book-2.png" width="30" height="30"/> Learn
 
