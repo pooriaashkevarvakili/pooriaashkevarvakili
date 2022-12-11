@@ -27,7 +27,6 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
  <img src="https://img.icons8.com/ultraviolet/2x/user.png" width="30" height="30"/> Portfolio
  
 -vue 
-- narmesh-ecommerce          (http://narmeshecommerce.surge.sh/) 
 - flower                     (http://flower-shopping-cart.surge.sh/home)
 - panel-admin                (https://spa-6eq8433jg-pooriavakili.vercel.app/#/)
 - shopping-cart              (https://portfolio-shopping-cart.surge.sh/)
