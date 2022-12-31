@@ -31,7 +31,6 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 - ghanad                      (http://ghanadbashi.surge.sh/)
 - golinoosh                   (http://golinush.surge.sh/)
 - panel-admin                (https://spa-6eq8433jg-pooriavakili.vercel.app/#/)
-- shopping-cart              (https://portfolio-shopping-cart.surge.sh/)
 - portfolio-dashboard        (https://portfoliodashboard.surge.sh/)
 - weblog-articel             (http://weblogpooriaashkevarvakili.surge.sh/)
 - todo-app                   (http://todoappp-vuex.surge.sh/)
