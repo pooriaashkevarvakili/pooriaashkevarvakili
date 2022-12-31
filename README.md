@@ -33,7 +33,7 @@ I have. So far, I have worked with teams of five to fifteen people. I do every t
 - panel-admin                (https://spa-6eq8433jg-pooriavakili.vercel.app/#/)
 - shopping-cart              (https://portfolio-shopping-cart.surge.sh/)
 - portfolio-dashboard        (https://portfoliodashboard.surge.sh/)
-- weblog-articel             (https://weblogpersonal.vercel.app)
+- weblog-articel             (weblogpooriaashkevarvakili.surge.sh)
 - todo-app                   (http://todoappp-vuex.surge.sh/)
 - surthland-jobs             (http://surthland-resume.surge.sh/)
 - resume-persian            (http://resumepersian.surge.sh/#/)
