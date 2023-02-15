@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm pooria ashkevar vakili
 
 </h1>
-<h1 align="center">front-end developer web vue-js,nuxt-js,react
+<h1 align="center">front-end developer web vue-js,nuxt-js
 
 </h1>
 <h1> <img src="https://img.icons8.com/color/2x/about.png" width="30" height="30"/> About-me
