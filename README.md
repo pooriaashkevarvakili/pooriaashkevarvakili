@@ -7,8 +7,10 @@
 <h1> <img src="https://img.icons8.com/color/2x/about.png" width="30" height="30"/> About-me
 </h1>
 <h3 align="center">
-Three years of work experience in the field of front end developer Vue js Nuxt js on the web side
-I have. So far, I have worked with teams of five to fifteen people. I do every task in js.Vue  js.Nuxt js to the best of my ability.</h3>
+About Me I have three years of experience in web programming as a frontend developer,
+specializing in Vue.js and Nuxt.js. Throughout my career, I have collaborated with teams
+ranging from five to fifteen members. I have a strong passion for acquiring new skills and
+constantly strive for self-improvement.</h3>
 
 
 
