@@ -62,7 +62,7 @@ constantly strive for self-improvement.</h3>
 
 
 <img src="https://img.icons8.com/flat-round/2x/question-mark.png" width="30" height="30"/>Question
-- Ask me about **html-css js vue.js nuxt-js**
+- Ask me about **html-css js vue.js nuxt-js react nextjs**
 
 
  <img src="https://freeiconshop.com/wp-content/uploads/edd/book-flat.png" alt="book" width="40" height="40"/> Articles
