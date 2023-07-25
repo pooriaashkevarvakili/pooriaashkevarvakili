@@ -47,7 +47,7 @@ constantly strive for self-improvement.</h3>
 - flower                      (http://flower-shopping-cart.surge.sh)
 - react
 
-- coffie                      (https://maaleksho.ir/)
+- maaleksho                     (https://maaleksho.ir/)
 
 <img src="https://img.icons8.com/fluency/2x/address-book-2.png" width="30" height="30"/> Learn
 
