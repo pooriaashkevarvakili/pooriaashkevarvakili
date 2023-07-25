@@ -58,7 +58,7 @@ constantly strive for self-improvement.</h3>
 
 - 👯 Know about my  resume experiences        [resume-persian]        (https://s28.picofile.com/d/8466369342/fd531708-e48e-4116-976f-72a9c60d0603/resume.pdf)
 
-- 👯 Know about my  resume experiences        [resume-english]        (https://s25.picofile.com/d/8454763684/6db1d7bc-425a-4b34-9b42-cffce976d6c0/MyResume_318_www_cvbuilder_me_26.pdf)
+- 👯 Know about my  resume experiences        [resume-english]        (https://s28.picofile.com/d/8466369500/457368be-4a1a-4ee0-b966-84428400afca/resumeenglish.pdf)
 
 
 <img src="https://img.icons8.com/flat-round/2x/question-mark.png" width="30" height="30"/>Question
