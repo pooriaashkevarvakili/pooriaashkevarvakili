@@ -51,7 +51,7 @@ constantly strive for self-improvement.</h3>
 
 <img src="https://img.icons8.com/fluency/2x/address-book-2.png" width="30" height="30"/> Learn
 
-- 🌱 I’m currently learning **html css js typescript sass/less vue-js nuxt**
+- 🌱 I’m currently learning **html css js typescript sass/less vue-js nuxt react nextjs**
 
 <img src="https://img.icons8.com/external-others-inmotus-design/2x/external-Paper-16px-set-others-inmotus-design.png" width="30" height="30"/>Resume
 
