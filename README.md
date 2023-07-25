@@ -56,7 +56,7 @@ constantly strive for self-improvement.</h3>
 <img src="https://img.icons8.com/external-others-inmotus-design/2x/external-Paper-16px-set-others-inmotus-design.png" width="30" height="30"/>Resume
 
 
-- 👯 Know about my  resume experiences        [resume-persian]        (https://s26.picofile.com/d/8458242718/8f79c677-2f63-4820-ab6b-57ec17f425d6/front_end.pdf)
+- 👯 Know about my  resume experiences        [resume-persian]        (https://s28.picofile.com/d/8466369342/fd531708-e48e-4116-976f-72a9c60d0603/resume.pdf)
 
 - 👯 Know about my  resume experiences        [resume-english]        (https://s25.picofile.com/d/8454763684/6db1d7bc-425a-4b34-9b42-cffce976d6c0/MyResume_318_www_cvbuilder_me_26.pdf)
 
