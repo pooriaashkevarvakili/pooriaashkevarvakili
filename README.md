@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pooria ashkevar vakili
+<h1 align="center">Hi 👋, I'm pooria  vakili
 
 </h1>
 <h1 align="center">front-end developer web vue-js,nuxt-js,react,next-js
