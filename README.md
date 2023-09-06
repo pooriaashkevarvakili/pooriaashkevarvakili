@@ -24,7 +24,7 @@ constantly strive for self-improvement.</h3>
 
 - fanam   (http://www.fanamco.ir/)  2 month
 - malecksho (https://maaleksho.ir/) 2 month
-- radar361 (https://radar361.com) 2 month
+- radar361 (https://radar361.com) 6 month
 - tehrantandis-surthland (https://tehrantc.com/) 6 month
 - avajang   (https://www.avajang.com/) 7 month
 - hakupian  (https://hacoupian.net/) 1 year 2 month
