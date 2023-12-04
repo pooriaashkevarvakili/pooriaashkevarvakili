@@ -22,10 +22,8 @@ constantly strive for self-improvement.</h3>
  <img src="https://img.icons8.com/cotton/2x/shopping-bag--v5.png" width="30" height="30"/> Experience
  
 
-- fanam   (http://www.fanamco.ir/)  4 month
-- malecksho (https://maaleksho.ir/) 2 month
-- radar361 (https://radar361.com) 6 month
-- tehrantandis-surthland (https://tehrantc.com/) 6 month
+- fanam   (https://projectfreelancer-six.vercel.app/)  4 month
+- radar361 (https://radar361.ir) 6 month
 - avajang   (https://www.avajang.com/) 7 month
 - hakupian  (https://hacoupian.net/) 1 year 2 month
 - freelancer 2 year 7 month
