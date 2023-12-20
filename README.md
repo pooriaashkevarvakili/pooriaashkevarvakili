@@ -34,7 +34,7 @@ constantly strive for self-improvement.</h3>
 - portfolio                   (http://pooriavakili.ir/)
 - ghanad                      (http://ghanadbashi.surge.sh/)
 
-- radar361                    (http://www.radar361.ir)
+- radar361                    (https://radar361.ir/)
 - golinoosh                   (http://golinush.surge.sh/)
 - panel-admin                (https://spa-6eq8433jg-pooriavakili.vercel.app/#/)
 - portfolio-dashboard        (https://portfoliodashboard.surge.sh/)
@@ -47,7 +47,6 @@ constantly strive for self-improvement.</h3>
 - flower                      (http://flower-shopping-cart.surge.sh)
 - react
 
-- maaleksho                     (https://maaleksho.ir/)
 
 <img src="https://img.icons8.com/fluency/2x/address-book-2.png" width="30" height="30"/> Learn
 
