@@ -7,10 +7,13 @@
 <h1> <img src="https://img.icons8.com/color/2x/about.png" width="30" height="30"/> About-me
 </h1>
 <h3 align="center">
-About Me I have three years of experience in web programming as a frontend developer,
-specializing in Vue.js and Nuxt.js. Throughout my career, I have collaborated with teams
-ranging from five to fifteen members. I have a strong passion for acquiring new skills and
-constantly strive for self-improvement.</h3>
+Pouria is a software engineer who has been specializing in frontend development for over four years. In
+addition to gaining experience in various projects, he has had the privilege of working with teams
+ranging from 5 to 15 members as a software engineer in different fields, including backend development
+and DevOps. Moreover, he is actively searching for new opportunities and challenges to enhance his
+skills and make a significant contribution to a team while nurturing the development of a practical
+product.
+</h3>
 
 
 
