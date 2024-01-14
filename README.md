@@ -31,7 +31,7 @@ constantly strive for self-improvement.</h3>
  <img src="https://img.icons8.com/ultraviolet/2x/user.png" width="30" height="30"/> Portfolio
  
 -vue 
-- portfolio                   (http://pooriavakili.ir/)
+- portfolio                   (https://magnificent-biscuit-75cc5f.netlify.app/)
 - ghanad                      (http://ghanadbashi.surge.sh/)
 
 - radar361                    (https://radar361.ir/)
