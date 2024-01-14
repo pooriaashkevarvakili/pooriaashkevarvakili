@@ -44,7 +44,6 @@ constantly strive for self-improvement.</h3>
 - shopping-cart-mobile-pinia  (https://shopping-cart-mobile.surge.sh/)
 - shopping-cart-watch-nuxt    (http://watch-shopping-cart.surge.sh/)
 - flower                      (http://flower-shopping-cart.surge.sh)
-- react
 
 
 <img src="https://img.icons8.com/fluency/2x/address-book-2.png" width="30" height="30"/> Learn
